@@ -54,15 +54,11 @@ export default function RootLayout({
         />
         <meta
           name="description"
-          content={`Hello, my name is Snowi. ${birthday()} and I've been coding for ${calcAge(
-            new Date("2019-07-03")
-          )} years. I enjoy creating projects on my free time.`}
+          content={`Hello, my name is Snowi. I've been coding for 1 year. I enjoy creating projects on my free time.`}
         />
         <meta
           property="og:description"
-          content={`Hello, my name is Snowi. ${birthday()} and I've been coding for ${calcAge(
-            new Date("2019-07-03")
-          )} years. I enjoy creating projects on my free time.`}
+          content={`Hello, my name is Snowi. I've been coding for 1 year. I enjoy creating projects on my free time.`}
         />
       </head>
       <body className={Fira.className}>
