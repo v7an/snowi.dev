@@ -1,0 +1,73 @@
+{
+  "Blogs": {
+    "creation": "Creation",
+    "editedLast": "Edited Last"
+  },
+  "Projects": {
+    "footer": {
+      "endPresent": "Present",
+      "endUnknown": "Unknown"
+    },
+    "tags": {
+      "website": "Website",
+      "application": "Application"
+    },
+    "flags": {
+      "contrib": "Contribution",
+      "discon": "Discontinued"
+    },
+    "buttons": {
+      "community": "Online",
+      "website": "Website"
+    },
+    "list": {
+      "Inno": {
+        "desc": "Votre destination ultime pour l'hébergement Node.JS/Python de qualité supérieure !."
+      },
+      "Guide": {
+        "desc": "Un serveur discord basé sur l'entraide."
+      },
+      "Faster": {
+        "desc": "Un robot polyvalent qui répond à de nombreux besoins."
+      }
+    }
+  },
+  "Misc": {
+    "page": {
+      "birthday": {
+        "today": "Today is my birthday, turning {age} years old",
+        "random": "I'm currently {age} years old"
+      },
+      "descHello": "Hello, my name is",
+      "descOr": "or",
+      "descShort": "for short",
+      "desc": "and I've been coding for 1 year. I enjoy creating open source projects on my free time.",
+      "turtles": "turtles",
+      "capybaras": "capybaras"
+    },
+    "404": {
+      "forgetful": "Uhhh.. think I forgot to add this page as I'm quite"
+    }
+  },
+  "Comps": {
+    "page": {
+      "languages": {
+        "english": "English",
+        "french": "French"
+      },
+      "settings": "Settings",
+      "language": "Language",
+      "home": "Home",
+      "projects": "Projects",
+      "colorTheme": "Color Theme",
+      "blog": "Blog",
+      "dark": "Dark", 
+      "shrimp": "Shrimp",
+      "chant": "Chant",
+      "smurf": "Smurf"
+    },
+    "pageSecondary": {
+      "back": "Go Back"
+    }
+  }
+}

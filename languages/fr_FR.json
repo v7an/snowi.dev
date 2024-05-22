@@ -1,0 +1,71 @@
+{
+  "Blogs": {
+    "creation": "Création",
+    "editedLast": "Dernière édition"
+  },
+  "Projects": {
+    "footer": {
+      "endPresent": "Présent",
+      "endUnknown": "Inconnu"
+    },
+    "tags": {
+      "website": "Site web",
+      "application": "Application"
+    },
+    "flags": {
+      "contrib": "Contribution",
+      "discon": "Abandonné"
+    },
+    "buttons": {
+      "community": "En ligne",
+      "website": "Site web"
+    },
+    "list": {
+      "Inno": {
+        "desc": "Votre destination ultime pour l'hébergement Node.JS/Python de qualité supérieure !."
+      },
+      "Guide": {
+        "desc": "Un serveur discord basé sur l'entraide."
+      },
+      "Faster": {
+        "desc": "Un robot polyvalent qui répond à de nombreux besoins."
+      }
+    }
+  },
+  "Misc": {
+    "page": {
+      "birthday": {
+        "today": "Aujourd'hui, c'est mon anniversaire, je fête mes {age} ans.",
+        "random": "J'ai actuellement {age} ans"
+      },
+      "descHello": "Hey, je me surnomme",
+      "desc": "et je code depuis 1 an. J'aime créer des projets sur mon temps libre.",
+      "turtles": "les jeux vidéos",
+      "capybaras": "et les sports de combats"
+    },
+    "404": {
+      "forgetful": "Uhhh... je crois que j'ai oublié d'ajouter cette page car je suis assez"
+    }
+  },
+  "Comps": {
+    "page": {
+      "languages": {
+        "english": "Anglais",
+        "french": "Français"
+      },
+      "settings": "Paramètres",
+      "language": "Langue",
+      "home": "Accueil",
+      "projects": "Projets",
+      "colorTheme": "Thème de couleur",
+      "blog": "Blog",
+      "dark": "Sombre",
+      "shrimp": "Crevettes",
+      "chant": "Chant",
+      "smurf": "Smurf"
+    },
+    "pageSecondary": {
+      "back": "Retourner"
+    }
+  }
+}
